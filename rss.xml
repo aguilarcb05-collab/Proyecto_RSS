@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+    <title>Noticias Game Awards</title>
+    <link>https://vandal.elespanol.com/noticias/noticias-sobre-the-game-awards</link>
+    <description>Novedades sobre videojuegos y premios GOTY</description>
+
+    <item>
+      <title>Baldur's Gate 3 arrasa en premios</title>
+      <link>https://vandal.elespanol.com/noticia/1350767549/baldurs-gate-3-se-lleva-el-goty-estos-son-los-ganadores-de-the-game-awards-2023/</link>
+      <description>El RPG del año ha ganado múltiples premios y sigue creciendo.</description>
+    </item>
+
+    <item>
+      <title>Elden Ring sigue siendo tendencia</title>
+      <link>https://www.reddit.com/r/KeineDummenFragen/comments/1kreg9v/warum_ist_gerade_elden_ring_so_mainstream_geworden/?tl=es-419</link>
+      <description>El juego de FromSoftware sigue siendo uno de los más jugados.</description>
+    </item>
+
+    <item>
+      <title>Nuevos nominados a GOTY 2025</title>
+      <link>https://www.nacongaming.com/es-ES/blog/nominations-game-awards-2025?srsltid=AfmBOopK6RlzTkBjkFSH9IyCkOXUM5iiEfYnrkjk_O2numPf2CYVGxnN</link>
+      <description>Se anuncian los candidatos al mejor juego del año.</description>
+    </item>
+
+  </channel>
+</rss>
